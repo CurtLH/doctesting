@@ -5,3 +5,4 @@ sphinx_rtd_theme
 pandoc
 geostates
 jinja2>=3.0
+pytz>=2020.1
