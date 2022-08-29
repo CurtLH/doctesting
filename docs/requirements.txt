@@ -1,8 +1,1 @@
 furo==2021.11.16
-nbsphinx
-sphinx_gallery
-sphinx_rtd_theme
-pandoc
-geostates
-jinja2>=3.0
-pytz>=2020.1
