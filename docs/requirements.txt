@@ -9,4 +9,4 @@ pandas
 jinja2>=3.0
 pypandoc
 pypandoc_binary
-pip=22.2.2 
+pip==22.2.2 
