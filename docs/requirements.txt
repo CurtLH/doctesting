@@ -6,3 +6,4 @@ markupsafe==2.0.1
 geostates
 geopandas
 pandas
+jinja2>=3.0
