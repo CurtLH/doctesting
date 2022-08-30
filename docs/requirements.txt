@@ -8,3 +8,4 @@ geopandas
 pandas
 jinja2>=3.0
 pypandoc
+pypandoc_binary
